@@ -1,11 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Satyam Yadav</h1>
 <h3 align="center">💻 Developer | 👨‍🎓 RGPV Diploma Student | 🛡️ Cyber Security Enthusiast | 📍 From Prayagraj, UP</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Flutter+Developer+🚀;Cyber+Security+Learner+🔐;Python+Coder+🐍;Creative+Problem+Solver+🧠;Loves+to+Build+Cool+Things+💡" alt="Typing SVG" />
-</p>
-
 ---
 
 ### ✨ About Me
@@ -35,12 +30,12 @@
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyam&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyam&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SatyamXd-Codex&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatyamXd-Codex&theme=radical&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satyam&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SatyamXd-Codex&theme=radical" />
 </p>
 
 ---
