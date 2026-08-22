@@ -52,19 +52,6 @@
 
 <h2 align="center">📊 Real-Time GitHub Telemetry</h2>
 
-<!-- TABLE STRUCTURE TO PREVENT BREAKING -->
-<div align="center">
-  <table border="0" style="background-color: transparent;">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=SatyamXd-Codex&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00ff66&text_color=ffffff&icon_color=00ff66&include_all_commits=true&count_private=true" width="100%" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatyamXd-Codex&theme=dark&hide_border=true&background=000000&ring=00ff66&fire=00ff66&currStreakLabel=00ff66" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 <br>
 
