@@ -24,9 +24,9 @@
 <h2 align="center">📡 System Architecture & Profile</h2>
 
 <p align="center">
-  <b>Satyam Yadav</b> एक क्रॉस-प्लेटफॉर्म डेवलपर और साइबर सुरक्षा शोधकर्ता हैं। <br>
-  वह वर्तमान में <b>RGPV</b> से कंप्यूटर साइंस में डिप्लोमा कर रहे हैं और उनका मुख्य फोकस <br>
-  <b>एप्लीकेशन सिक्योरिटी, एक्सप्लॉइट डेवलपमेंट और स्केलेबल सॉफ्टवेयर आर्किटेक्चर</b> पर है।
+  <b>Satyam Yadav</b> is a cross-platform developer and cybersecurity researcher. <br>
+  Currently pursuing a Diploma in Computer Science at <b>RGPV</b>, with a core focus on <br>
+  <b>Application Security, Exploit Development, and Scalable Software Architecture</b>.
 </p>
 
 <br><hr><br>
