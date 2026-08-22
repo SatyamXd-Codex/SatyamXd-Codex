@@ -1,48 +1,109 @@
 <div align="center">
 
-  <!-- TOP ANIMATED TERMINAL HEADER -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:091008,100:002b0d&height=220&section=header&text=%E2%98%A2%20SATYAM%20YADAV%20%E2%98%A2&fontSize=52&fontColor=00FF66&animation=twinkling&desc=%5B%20CYBER%20SECURITY%20RESEARCHER%20%7C%20EXPLOIT%20DEVELOPER%20%7C%20PENETRATION%20TESTER%20%5D&descSize=16&descAlignY=68&fontAlignY=36" width="100%" />
+  <!-- HEADER BANNER -->
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:090d16,100:1e293b&height=180&section=header&text=Satyam%20Yadav&fontSize=42&fontColor=38bdf8&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving&color=0:090d16,100:1e293b&height=180&section=header&text=Satyam%20Yadav&fontSize=42&fontColor=38bdf8&animation=fadeIn)" width="100%" />
 
-  <!-- MATRIX TYPING TERMINAL SVG -->
-  <a href="https://github.com/SatyamXd-Codex">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=800&color=00FF66&center=true&vcenter=true&random=false&width=800&lines=root%40satyam%3A~%23+init_attack_surface_assessment.sh;%5B%2B%5D+Specialization%3A+WebSec+%7C+AppSec+%7C+Network+Pentesting;%5B%2B%5D+Toolsmith%3A+Custom+Payloads+%26+Flutter+Security+UIs;%5B%2B%5D+Academic%3A+Diploma+in+Computer+Science+%40+RGPV" alt="Typing Matrix SVG" />
+  <!-- TYPING SVG -->
+  <a href="[https://github.com/SatyamXd-Codex](https://github.com/SatyamXd-Codex)">
+    <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&lines=Software+Engineer+%7C+Cyber+Security+Researcher;Flutter+%26+Cross-Platform+App+Developer;Red+Teaming+%26+Application+Security](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&lines=Software+Engineer+%7C+Cyber+Security+Researcher;Flutter+%26+Cross-Platform+App+Developer;Red+Teaming+%26+Application+Security)" alt="Typing SVG" />
   </a>
 
-  <br><br>
+  <br>
 
-  <!-- ADVANCED CYBER BADGES MATRIX -->
-  <p>
-    <img src="https://img.shields.io/badge/CLEARANCE-RED_TEAM-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF66" />
-    <img src="https://img.shields.io/badge/TARGET-OWASP_TOP_10-000000?style=for-the-badge&logo=portswigger&logoColor=00FF66" />
-    <img src="https://img.shields.io/badge/EXPLOITATION-PYTHON_|_BASH-000000?style=for-the-badge&logo=python&logoColor=00FF66" />
-    <img src="https://img.shields.io/badge/LOCATION-PRAYAGRAJ_IN-000000?style=for-the-badge&logo=googlemaps&logoColor=FF0000" />
+  <!-- METADATA BADGES -->
+  <p align="center">
+    <img src="[https://img.shields.io/badge/Education-RGPV_CS_Diploma-0f172a?style=flat-square&logo=google-academic&logoColor=38bdf8](https://img.shields.io/badge/Education-RGPV_CS_Diploma-0f172a?style=flat-square&logo=google-academic&logoColor=38bdf8)" />
+    <img src="[https://img.shields.io/badge/Location-Prayagraj%2C_UP-0f172a?style=flat-square&logo=google-maps&logoColor=38bdf8](https://img.shields.io/badge/Location-Prayagraj%2C_UP-0f172a?style=flat-square&logo=google-maps&logoColor=38bdf8)" />
+    <img src="[https://img.shields.io/badge/Focus-Offensive_Security-0f172a?style=flat-square&logo=kali-linux&logoColor=38bdf8](https://img.shields.io/badge/Focus-Offensive_Security-0f172a?style=flat-square&logo=kali-linux&logoColor=38bdf8)" />
   </p>
 
 </div>
 
 ---
 
-### 🖥️ `root@satyam:~# cat /etc/profile.d/identity.sh`
+### 📋 Overview
 
-```bash
-#!/usr/bin/env bash
-# OPERATOR IDENTITY FILE
+Experienced developer with a core focus on **Cross-Platform App Development (Flutter)**, **Web Architectures**, and **Security Engineering**. Skilled in identifying vulnerability vectors across applications and building hardened software architectures.
 
-export OPERATOR_NAME="Satyam Yadav"
-export PRIMARY_ALIAS="SatyamXd-Codex"
-export ACADEMIC_TRACK="Diploma in Computer Science | RGPV"
-export LOCATION="Prayagraj, UP, India"
+- 🎓 **Academics:** Pursuing Diploma in Computer Science at RGPV.
+- 🛡️ **Cyber Security Focus:** Application Pentesting, Red Teaming, OWASP Top 10 Auditing.
+- 💻 **Software Focus:** Native/Cross-platform mobile apps, high-conversion web frontends.
 
-declare -A THREAT_INTEL=(
-  ["Core_Focus"]="Offensive Security, Exploit Crafting, Application Hardening"
-  ["Web_AppSec"]="XSS, SQLi, CSRF, SSRF, IDOR, Broken Authentication"
-  ["Software_Dev"]="Flutter/Dart (Secure UI), Python Automation, PHP Systems"
-  ["OS_Environment"]="Kali Linux, Parrot OS, Arch Linux, Custom Bash Shells"
-  ["Philosophy"]="Security is not a feature; it's a structural requirement."
-)
+---
 
-function execute_recon() {
-    echo -e "\033[0;32m[+] Scanning host system...\033[0m"
-    echo -e "\033[0;32m[+] Status: Fully Operational & Ready for Security Audits.\033[0m"
-}
-execute_recon
+### ⚙️ Technical Arsenal
+
+> **Languages:** Python, Dart, PHP, JavaScript, Bash
+> **Frameworks:** Flutter, HTML5/CSS3, Tailwind CSS
+> **Security Tools:** Kali Linux, Metasploit, Burp Suite, Wireshark, Nmap
+> **Infrastructure:** Git, Linux Systems Hardening, MySQL
+
+<br>
+
+<p align="center">
+  <img src="[https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/Kali_Linux-557C93?style=flat-square&logo=kalilinux&logoColor=white](https://img.shields.io/badge/Kali_Linux-557C93?style=flat-square&logo=kalilinux&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/Burp_Suite-FF6600?style=flat-square&logo=burpsuite&logoColor=white](https://img.shields.io/badge/Burp_Suite-FF6600?style=flat-square&logo=burpsuite&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)" />
+</p>
+
+---
+
+### 📂 Featured Engineering Projects
+
+| Project Name | Domain / Tech | Architecture Details | Status |
+| :--- | :--- | :--- | :---: |
+| **Academic Resource Portal** | `PHP` `MySQL` `SEO` | High-throughput web platform serving educational content with optimized indexing. | 🟢 Production |
+| **Mobile Security Suite** | `Flutter` `Dart` | Cross-platform utility app with network diagnosis and local security features. | 🟡 Active Dev |
+| **Enterprise E-Commerce Engine** | `Web UI` `JavaScript` | Custom, lightweight storefront optimized for high-conversion and zero clutter. | 🟢 Production |
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<div align="center">
+
+  <table border="0">
+    <tr>
+      <td>
+        <img height="165" src="[https://github-readme-stats.vercel.app/api?username=SatyamXd-Codex&show_icons=true&theme=tokyonight&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=SatyamXd-Codex&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)" />
+      </td>
+      <td>
+        <img height="165" src="[https://github-readme-streak-stats.herokuapp.com/?user=SatyamXd-Codex&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=SatyamXd-Codex&theme=tokyonight&hide_border=true)" />
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<br>
+
+<details>
+  <summary><b>📈 Detailed Contribution Heatmap</b></summary>
+  <br>
+  <div align="center">
+    <img src="[https://github-readme-activity-graph.vercel.app/graph?username=SatyamXd-Codex&theme=tokyonight&hide_border=true&area=true](https://github-readme-activity-graph.vercel.app/graph?username=SatyamXd-Codex&theme=tokyonight&hide_border=true&area=true)" width="100%" />
+  </div>
+</details>
+
+---
+
+### 📬 Connect & Channels
+
+<div align="center">
+
+  <a href="mailto:yadavsatyam752@gmail.com">
+    <img src="[https://img.shields.io/badge/Email-yadavsatyam752%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-yadavsatyam752%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)" />
+  </a>
+  <a href="[https://t.me/codexgithub](https://t.me/codexgithub)">
+    <img src="[https://img.shields.io/badge/Telegram-@codexgithub-2ca5e0?style=flat-square&logo=telegram&logoColor=white](https://img.shields.io/badge/Telegram-@codexgithub-2ca5e0?style=flat-square&logo=telegram&logoColor=white)" />
+  </a>
+  <a href="[https://github.com/SatyamXd-Codex](https://github.com/SatyamXd-Codex)">
+    <img src="[https://img.shields.io/badge/GitHub-SatyamXd--Codex-181717?style=flat-square&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-SatyamXd--Codex-181717?style=flat-square&logo=github&logoColor=white)" />
+  </a>
+
+</div>
