@@ -14,7 +14,7 @@
 
   <!-- NEON BADGES -->
   <a href="mailto:yadavsatyam752@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF66" /></a>
-  <a href="https://t.me/codexgithub"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00FF66" /></a>
+  <a href="https://www.instagram.com/_satyam.ydv"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF66" /></a>
   <img src="https://img.shields.io/badge/Location-Prayagraj_UP-000000?style=for-the-badge&logo=googlemaps&logoColor=00FF66" />
 
 </div>
