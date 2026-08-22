@@ -1,73 +1,31 @@
-
-<h1 align="center">Hi 👋, I'm Satyam Yadav</h1>
-<h3 align="center">💻 Developer | 👨‍🎓 RGPV Diploma Student | 🛡️ Cyber Security Enthusiast | 📍 From Prayagraj, UP</h3>
----
-
-### ✨ About Me
-
-- 🎓 I'm currently pursuing **Diploma in Computer Science** from **RGPV** (2nd Semester)  
-- 🏡 Based in **Prayagraj, Uttar Pradesh**  
-- 🧠 I’m learning **Flutter, Python, Hacking, and App Dev**  
-- 🔐 Deep interest in **Cyber Security & Ethical Hacking**  
-- 🚀 I love turning **ideas into code** and building things that matter  
-- 🧩 Always curious to explore **new technologies**  
-- ⚡ Fun fact: I treat bugs like mini puzzles 🔍
-
----
-
-### 🛠️ Tech Stack & Skills
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=61AFEF&center=true&vcenter=true&random=false&width=600&lines=Hi+%F0%9F%90%8B%2C+I'm+Satyam+Yadav;Full-Stack+%26+Flutter+Developer;Cyber+Security+Enthusiast;Building+Scalable+Digital+Products" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/CyberSecurity-000000?style=for-the-badge&logo=protonvpn&logoColor=green" />
-  <img src="https://img.shields.io/badge/Hacking-black?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Developer%20Mindset-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://img.shields.io/badge/Location-Prayagraj%2C%20UP-000000?style=for-the-badge&logo=googlemaps&logoColor=red" />
+    <img src="https://img.shields.io/badge/Education-RGPV%20Diploma%20(CS)-00599C?style=for-the-badge&logo=degree&logoColor=white" />
+    <img src="https://img.shields.io/badge/Focus-App%20Dev%20%26%20Security-008080?style=for-the-badge&logo=shield&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,12,30&height=120&section=header"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats & Activity
+### ⚡ About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SatyamXd-Codex&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SatyamXd-Codex&theme=radical&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SatyamXd-Codex&theme=radical" />
-</p>
-
----
-
-### 📁 Featured Projects
-
-> *(Work in Progress – Will Update Soon)*  
-> Showcase your amazing apps, tools, websites here!
-
-```markdown
-🔹 [🎵 Music Player App](#)  
-🔹 [🔐 Hacking Tools UI in Flutter](#)  
-🔹 [📚 RGPV Syllabus Viewer App](#)  
-```
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="yadavsatyam752@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/codexgithub"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://github.com/SatyamXd-Codex"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
-
-### 🧠 Quote that Drives Me
-
-> *"Stay hungry, stay foolish."* – Steve Jobs  
-> *"Code like a poet, hack like a pro."*
-
----
-
-<p align="center">⚡ Powered by passion and sleepless nights ☕</p>
+```yaml
+identity: Satyam Yadav
+role: Cross-Platform Developer & Security Researcher
+academics:
+  pursuing: Diploma in Computer Science
+  institute: Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV)
+current_focus:
+  - Building production-ready Flutter applications
+  - System Security & Ethical Hacking frameworks
+  - Web Architectures (PHP / WordPress / Custom UIs)
+philosophy: "Treating bugs like high-stakes puzzles, code like architecture."
